@@ -6,7 +6,7 @@
 <h3 align="center">👋 Hi there, I’m <a href="https://atnafuatx.github.io">Atnafu Lambebo Tonja</a></h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atnafu-lambebo-6b21a5184"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/atnafu-lambebo-t-6b21a5184/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/AtnafuLambebo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/atnafuatx"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Atnafu_Lambebo"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
