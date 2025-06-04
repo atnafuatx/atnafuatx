@@ -60,5 +60,5 @@
 - 🌐 [Website](https://atnafuatx.github.io)  
 - 🐦 [Twitter: @AtnafuLambebo](https://twitter.com/AtnafuLambebo)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/atnafu-lambebo-6b21a5184)  
-- 🎓 [Google Scholar]((https://scholar.google.com/citations?user=rubyApkAAAAJ&hl=en))  
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=rubyApkAAAAJ&hl=en)  
 - 📚 [ResearchGate](https://www.researchgate.net/profile/Atnafu_Lambebo)  
