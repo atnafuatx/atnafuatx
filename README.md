@@ -27,7 +27,7 @@
 
 ---
 
-## 📰 Latest News Publications 
+## 📰 Latest Publications 
 - **ACL 2025:** *The Esethu Framework: Reimagining Sustainable Dataset Governance and Curation for Low-Resource Languages*([Paper](https://arxiv.org/abs/2502.15916))
 - **NAACL 2025:** *ProverbEval: Exploring LLM Evaluation Challenges for Low-resource Language Understanding* ([Paper](https://arxiv.org/abs/2411.05049)).  
 - **NeurIPS 2024 D&B Track:** *CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark* ([Paper](https://arxiv.org/abs/XXXXXXX)).  
